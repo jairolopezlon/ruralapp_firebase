@@ -23,6 +23,7 @@
     /* Alias Paths */
     "baseUrl": "./src",
     "paths": {
+      "@src/*": ["*"],
       "@styles/*": ["styles/*"],
       "@app/*": ["App/*"]
     }
